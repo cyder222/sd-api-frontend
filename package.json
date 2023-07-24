@@ -1,24 +1,25 @@
 {
-  "name": "stable-diffusion-api",
-  "version": "0.0.6",
+  "name": "stable-diffusion-api-for-frontend",
+  "version": "0.0.1",
   "description": "API translation for Automatic1111 Stable Diffusion WebUI",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "author": "Jascha Huisman <jascha.huisman@gmail.com>",
+  "author": "cyder <boruboredo@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/jaschahuisman/sd-api.git",
+  "homepage": "https://github.com/cyder222/sd-api-frontend.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jaschahuisman/sd-api.git"
+    "url": "https://github.com/cyder222/sd-api-frontend.git"
   },
   "keywords": [
     "javascript",
     "api",
     "client",
     "typescript",
+    "frontend lib",
     "stable-diffusion",
     "automatic1111",
     "stable-diffusion-webui"
@@ -30,7 +31,6 @@
     "@types/axios": "^0.14.0",
     "@types/deasync": "^0.1.2",
     "@types/node": "^18.15.11",
-    "@types/sharp": "^0.31.1",
     "@types/string-similarity": "^4.0.0",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.3"
