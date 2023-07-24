@@ -1,6 +1,6 @@
 # Stable Diffusion Api
 
-This library is based on [jaschahuisman/sd-api] https://github.com/jaschahuisman/sd-api/tree/main
+This library is based on [jaschahuisman/sd-api] https://github.com/jaschahuisman/sd-api
 
 I changed it for frontend working.
 
